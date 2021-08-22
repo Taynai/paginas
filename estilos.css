@@ -1,0 +1,40 @@
+body{
+    background: white
+}
+/*"background" sirve para sarle color a la pagina y "color"
+es para el color de la letras*/
+
+#contenido-1{
+    position: absolute;
+    background: white;
+    left: 25%;
+    top: 2%;
+    width: 30%;
+    height: 96%;
+}
+
+#videos{
+    position: absolute;
+    top: 15%;
+    width: 45%;
+    left: 45%;    
+}
+
+#img{
+    width: 70%;
+}
+
+#video-1{
+    width: 50%;
+}
+
+#video-2{
+    width: 50%;
+}
+
+h2{
+    font-family:'Lucida Grande';
+    font-size: 250%;
+    color: #7736ce;
+}
+

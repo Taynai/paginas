@@ -1,0 +1,237 @@
+body{
+    background: #DEDEDE;
+    color: black;
+}
+
+/*"background" sirve para sarle color a la pagina y "color"
+es para el color de la letras"*/
+
+#nav_padre{
+    position: relative;
+    left: 5%;
+    width:90%;
+    top: 1%;
+    height: 50px;
+    background: #5499C7;
+    padding: 3px 10px;
+    border-radius: 5px;
+}
+
+#unos{
+    position: absolute;
+    top: 15%;
+    height: 10%;
+    color: transparent;
+    width: 20%;
+    position: absolute;
+}
+.auno{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#dos{
+    position: absolute;
+    background: transparent;
+    color: transparent;
+    left: 39%;
+    top: 15%;
+    width: 22%;
+    font-family: "Homer Simpson ui";
+}
+
+.ados{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: "homer simpson ui";
+}
+
+#tres{
+    position: absolute;
+    background: transparent;
+    color: transparent;
+    left: 75%;
+    top: 15%;
+    width: 22%;
+    font-family: "Homer Simpson ui";
+}
+
+.atres{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#texto_padre{
+    position: relative;
+    background: #FFFFFF;
+    top: 4%;
+    padding: 4%;
+    left: 6%;
+    width: 81.5%;
+}
+
+#texto-uno{
+    position: absolute;
+    color: #000000;
+    top: -20%;
+    left: 2.2%;
+    font-family: "homer simpson ui";
+}
+
+#video{
+    position: relative;
+    background: #FFFFFF;
+    left: 6%;
+    width: 63%;
+}
+
+#titulo{ 
+    position: relative;
+    top: 15px;
+    left: 5%;
+    width: 100%;
+}
+
+#texto{
+    position: relative;
+    left: 2.5%;
+    width: 95%;
+}
+
+#URL{
+    position: relative;
+    width: 65%;
+}
+
+#img_dos{
+    position: relative;
+    width: 65%;
+}
+
+#img_tres{
+    position: relative;
+    width: 65%;
+}
+
+#img_cuatro{
+    position: relative;
+    width: 65%;
+}
+
+#link_youtube{
+    color: #FF0000;
+    text-decoration: none;
+    bottom: 10px;
+}
+
+/*---------------2 hoja---------------*/
+
+#seccion_audio{
+    position: relative;
+    background: #FFFFFF;
+    left: 6%;
+    width: 63%;
+}
+
+#titulo_audio{
+    position: relative;
+    top: 10px;
+    left: 5%;
+}
+
+#texto_audio{
+    position: relative;
+    left: 2.5%;
+    width: 95%;
+}
+
+#click_aqui{
+    text-decoration: none;
+    color: #FF0000;
+}
+
+#img_audio_uno{
+    position: relative;
+    width: 65%;
+}
+
+#img_audio_dos{
+    position: relative;
+    width: 65%;
+}
+
+#img_audio_tres{
+    position: relative;
+    width: 65%;
+}
+
+#link_audio{
+    text-decoration: none;
+    color: #000FFF;
+}
+
+/*------------hoja 3------------*/
+
+#convertidor_archivo{
+    position: relative;
+    background: #FFFFFF;
+    left: 6%;
+    width: 63%;
+}
+
+#titulo_archivo{
+    position: relative;
+    left: 5%;
+    top: 10px;
+}
+
+#titulo_archivo_dos{
+    position: relative;
+    top: 0px;
+    left: 12%;
+}
+
+#texto_archivo{
+    position: relative;
+    left: 2.5%;
+    width: 95%;
+}
+
+#link_archivo{
+    text-decoration: none;
+    color: #148F77;
+}
+
+#link_vpn{
+    position: relative;
+    background: #000000;
+    width: 90%;
+    left: 5%;
+}
+
+#click_vpn{
+    position: relative;
+    top: 15px;
+    left: 34%;
+    width: 50%;
+    color: #FFFFFF;
+    text-decoration: none;
+    top: 10px;
+}
+
+#pie{
+    position: relative;
+    color: #FFFFFF;
+    left: 39%;
+    width: 45%;
+}
+
+#contactanos{
+    position: relative;
+    left: 42%;
+    top: -10px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+/*-----------aside----------*/
